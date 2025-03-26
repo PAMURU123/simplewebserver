@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:05-03-2025
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
@@ -36,10 +36,30 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>venky</title>
+</head>
+<body>
+    <h1>fundamentals of web application</h1>
+    <h2>fundamentals of web application</h2>
+    <h3>fundamentals of web application</h3>
+    <h4>fundamentals of web application</h4>
+    <h5>fundamentals of web application</h5>
+    <h6>fundamentals of web application</h6>
 
+    
+</body>
+</html>
+```
 
 ## OUTPUT:
-
+![image](https://github.com/user-attachments/assets/fba04a65-c8f2-47c1-b637-771398e37d7c)
+![image](https://github.com/user-attachments/assets/2ba1b71e-3a80-47f8-b194-a70f6b34d6bd)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
